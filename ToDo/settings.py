@@ -25,7 +25,7 @@ SECRET_KEY = 'x(c-1s05#tl4e_ki9*pcxwu*bnt*_!$wr^g8no)^+sw01cmu+l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-python-app.herokuapp.com']
 
 
 # Application definition
