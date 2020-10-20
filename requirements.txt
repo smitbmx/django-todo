@@ -17,3 +17,5 @@ sqlparse==0.4.1
 toml==0.10.1
 virtualenv==20.0.35
 wrapt==1.12.1
+dj-database-url 
+psycopg2
